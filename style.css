@@ -115,3 +115,27 @@ main p {
   border-radius: 15px;
   margin-bottom: 0.5rem;
 }
+
+.comment {
+  width: 100%;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e5e7eb;
+}
+
+.comment i {
+  width: 50rem;
+  font-size: 36px;
+  font-weight: light;
+  color: #2b394d;
+}
+
+.comment q {
+  width: 50rem;
+  text-align: end;
+  margin-top: 3rem;
+  font-size: 24px;
+}
